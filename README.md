@@ -4,18 +4,13 @@
 
 # About ME 💬 :
 
+-Soy un apasionado desarrollador de software con experiencia en desarrollo web y aplicaciones
 
-- 🌱 I’m currently learning **Backend Development**
+-Me especializo frontend /backend/ full stack, creando soluciones eficientes y escalables.
 
-<!--- 👨‍💻 Explore my projects at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)
+-Apasionado por la programación, la optimización de código y la resolución de problemas.
 
-- 💬 Ask me about **React,React Native, Next.js, Node.js**
-
-- 📫 Reach me at **ahmadpiracha3@gmail.com**
-
-- 📄 Learn more about my experiences at [ahmadpiracha.netlify.app](https://ahmadpiracha.netlify.app)-->
-
-
+-Siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.
 
 ## 💻 Stack Tecnológico:
 
@@ -64,14 +59,13 @@
 <br>
 <br>
 📫 Contáctame:
-<!--### Connect with me 🔗 :
 <br>
-<p align='center'>
-<a href="mailto:ahmadpiracha3@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/ahmadpiracha-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ahmad-waseem-piracha" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
-</p>
-<br>-->
+
+- ✉️ Email: matiasleonel_corsi@hotmail.com
+
+- 🔗 GitHub: github.com/Maticor12
+
+- 💼 LinkedIn: linkedin.com/in/matias-corsi-814829330
+
+¡Hablemos sobre tu próximo proyecto! 🚀
+
